@@ -9,7 +9,7 @@ inflect==2.1.0
 itsdangerous==1.1.0
 Jinja2==2.10
 MarkupSafe==1.1.1
-Pillow==5.4.1
+Pillow==6.2.0
 PyMySQL==0.9.3
 pytz==2018.9
 redis==3.2.0
